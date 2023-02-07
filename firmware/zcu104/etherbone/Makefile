@@ -8,7 +8,7 @@ else
 OPTIM := -O2 -DNDEBUG
 endif
 
-CC := aarch64-linux-gnu-gcc
+CC := aarch64-linux-gnu-gcc-9
 CFLAGS := $(OPTIM) -Wall -Wextra -Werror
 
 BUILD_DIR = build
