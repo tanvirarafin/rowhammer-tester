@@ -163,6 +163,9 @@ python hw_rowhammer.py --all-rows --nrows 5
 ```
 You should not see any hangups rather a fast filling of the memory and then error counts etc.
 
+
+### My copy of a working installation (lab.arafin) is here: https://drive.google.com/file/d/1cS-Yh-WFwy9g8STO96wnEi2isYhNF281/view?usp=sharing
+
 # Copyright
 Copyright (c) 2020-2022 [Antmicro](https://www.antmicro.com)
 
